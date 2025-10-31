@@ -1,16 +1,16 @@
 
                                                               ✨ Aicha Faye ✨
-                                                               HTML|CSS|PYTHON
+                                                          HTML|CSS|PYTHON|JAVA|Ardunio
 __________________________________________________________________________________________________________________________________________________
 
 
 - 👋 Hi, I’m @behindthescenes360
 - 👀 I’m interested in learning html, css, javascript, and python
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning javasript
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me, my email is aichafaye27@uarockets.org
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a teenager trying to learn how to code for future benefits.
+- ⚡ Fun fact: I am a 16yo trying to learn how to code for future benefits.
 I originally started learning python when i was younger, but now i wanna build websites, so if you have anything that might help, don't hesitate, tysm!
 
 <!---
